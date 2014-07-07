@@ -9,7 +9,7 @@ error_reporting(E_ALL);
         <meta http-equiv="content-type" content="text/html;charset=iso-8859-1" />
         <title>Calendario en PHP con eventos</title>
         <meta http-equiv="PRAGMATICO" content="NO-CACHE" /> // Aqui edite yo
-        <meta http-equiv="EXPIRES" content="-1" />
+        <meta http-equiv="EXPIRES" content="-1" />      <!-- esto es HTML, se edita así! ¬¬ -->
         <script type="text/javascript" src="jquery.js"></script>
         <script type="text/javascript" src="vtip.js"></script>
         <script type="text/javascript">
